@@ -1,0 +1,2 @@
+{ "index": { "_index": "vehicles", "_type": "car", "_id": "1" } }
+{ "price": 10000, "color": "white", "make": "honda", "sold": "2016-10-28", "condition": "okay" }
